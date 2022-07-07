@@ -37,7 +37,7 @@
     "cordova-plugin-local-notification": "git+https://github.com/katzer/cordova-plugin-local-notifications.git",
     "core-js": "^2.5.4",
     "mobiscroll-angular": "^4.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "rxjs": "^6.3.3",
     "zone.js": "~0.8.29"
   },
